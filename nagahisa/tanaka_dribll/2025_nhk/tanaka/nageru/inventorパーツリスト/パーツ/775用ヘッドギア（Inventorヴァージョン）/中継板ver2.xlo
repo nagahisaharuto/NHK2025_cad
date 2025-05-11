@@ -1,0 +1,107 @@
+Title: STEP Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and
+Settings\ARM\デスクトップ\775\中継板ver2.stp
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+STEP File Header Section Entities:
+------------------------------------------------------------------------------
+
+File_description:
+=================
+
+description: 
+
+implementation_level: 2;1
+
+File_name:
+==========
+
+name: C:\Documents and Settings\ARM\デスクトップ\775\中継板ver2.stp
+
+time_stamp: 2009-08-17T22:31:17
+
+author: ARM
+
+organization: 
+
+preprocessor_version: Autodesk Inventor 8
+
+originating_system: Autodesk Inventor 8
+
+authorization: 
+
+File_schema:
+============
+
+schema_identifiers: AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }
+
+==============================================================================
+Entity Summary for Data Section:
+------------------------------------------------------------------------------
+ Type        Entity Name                                            Count
+------------------------------------------------------------------------------
+ 8002        axis2_placement_3d                                        58
+ 8012        b_spline_surface_with_knots                                3
+ 8013        cartesian_point                                          466
+ 8017        circle                                                    48
+ 8018        closed_shell                                               1
+ 8029        cylindrical_surface                                        6
+ 8032        direction                                                140
+ 8035        edge_curve                                                72
+ 8036        edge_loop                                                 48
+ 8043        face_bound                                                18
+ 8044        face_outer_bound                                          30
+ 8053        line                                                      24
+ 8055        manifold_solid_brep                                        1
+ 8062        oriented_edge                                            144
+ 8072        plane                                                      3
+ 8107        vector                                                    24
+ 8110        vertex_point                                              48
+ 8203        product_related_product_category                           1
+ 8206        application_context                                        1
+ 8207        product_context                                            1
+ 8209        product_definition_formation                               1
+ 8212        product_definition_context                                 1
+ 8216        plane_angle_measure_with_unit                              1
+ 8219        dimensional_exponents                                      1
+ 8223        advanced_brep_shape_representation                         1
+ 8224        product                                                    1
+ 8228        product_definition_shape                                   1
+ 8230        advanced_face                                             30
+ 8232        shape_representation                                       1
+ 8233        product_definition                                         1
+ 8240        shape_definition_representation                            1
+ 8249        uncertainty_measure_with_unit                              1
+ 8300        application_protocol_definition                            1
+ 8334        shape_representation_relationship                          1
+ 8503        colour_rgb                                                 1
+ 8533        fill_area_style                                            1
+ 8534        fill_area_style_colour                                     1
+ 8574        presentation_style_assignment                              1
+ 8582        styled_item                                                1
+ 8584        surface_side_style                                         1
+ 8587        surface_style_fill_area                                    1
+ 8597        surface_style_usage                                        1
+ 8631        mechanical_design_geometric_presentation_representation         1
+ 8999        external_map                                               5
+------------------------------------------------------------------------------
+                                                          Total      1194
+
+==============================================================================
+==============================================================================
+
+Error Summary:
+
+No errors.
+
+==============================================================================
+Elapsed Time:
+------------------------------------------------------------------------------
+Processor: 00:00:00
+Clock:     00:00:01
+==============================================================================
